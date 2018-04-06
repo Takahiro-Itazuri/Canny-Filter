@@ -14,7 +14,6 @@ Canny Filter finds edges in an image.
 ### y-axis
 ![Sobel Filter (x-axis)](result/Sobel-Filtered-Image(x-axis).jpg)
 ## Non Maximum Suppression
-![Non Maximum Suppresino](result/Non-Maximum-Suppresion-Image.jpg)
+![Non Maximum Suppression](result/Non-Maximum-Suppression-Image.jpg)
 ## Hysteresis Threshold
 ![Hysteresis Threshold](result/Canny-Filtered-Image.jpg)
-
